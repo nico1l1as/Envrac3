@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\EnVrac\\EnVrac.csproj": {}
+    "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\EnVrac\\EnVrac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\EnVrac\\EnVrac.csproj": {
+    "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\EnVrac\\EnVrac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\EnVrac\\EnVrac.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\EnVrac\\EnVrac.csproj",
         "projectName": "EnVrac",
-        "projectPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\EnVrac\\EnVrac.csproj",
+        "projectPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\EnVrac\\EnVrac.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\EnVrac\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\EnVrac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

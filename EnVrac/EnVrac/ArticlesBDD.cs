@@ -61,12 +61,12 @@ namespace EnVrac
             //Suppression de l'auteur
             Allergenes.Local.Remove(allergenes);
         }
-        internal Article AjouterArticle(string nom, int quantite, int prixU, int prixKilo, DateTime restockage, DateTime peremption, string remarque, string specificite, string region, int colonne, SousCategorie sousCategorie, Etagere etagere, Pays pays )
+        internal Article AjouterArticle(string nom, int quantite, int prixU, int prixKilo, DateTime restockage, DateTime peremption, string remarque, string specificite, string region, int colonne, SousCategorie sousCategorie, Etagere etagere, Pays pays, Unite unite )
         {
             //Gestion des erreurs
             if (nom == null || nom == string.Empty) { throw new ArgumentNullException($"{nameof(AjouterArticle)} : L'auteur doit avoir un nom (valeur NULL ou chaine vide)."); }
             //Ajout du nouvel auteur
-            Article lArticle = new Article() { Nom = nom, Quantite = quantite, PrixU = prixU, PrixKilo = prixKilo, Restockage= restockage, Peremption = peremption, Remarque = remarque, Specificite = specificite, Region = region, Colonne = colonne, SousCategorie = sousCategorie, Etagere = etagere, Pays = pays  };
+            Article lArticle = new Article() { Nom = nom, Quantite = quantite, PrixU = prixU, PrixKilo = prixKilo, Restockage= restockage, Peremption = peremption, Remarque = remarque, Specificite = specificite, Region = region, Colonne = colonne, SousCategorie = sousCategorie, Etagere = etagere, Pays = pays, Unite = unite  };
             Article.Local.Add(lArticle);
             return lArticle;
         }
@@ -112,13 +112,13 @@ namespace EnVrac
             //Suppression de l'auteur
             Etage.Local.Remove(etage);
         }
-        internal Etagere AjouterEtagere(string nom, Etage etage)
+        internal Etagere AjouterEtagere(string nom, Etage etage, byte longueur, byte x, byte y)
         {
             //Gestion des erreurs
             if (nom == null || nom == string.Empty) { throw new ArgumentNullException($"{nameof(AjouterEtagere)} : L'auteur doit avoir un nom (valeur NULL ou chaine vide)."); }
             if (Etage == null) { throw new ArgumentNullException($"{nameof(AjouterEtagere)} : Le client doit avoir une ville (valeur NULL)."); }
             //Ajout du nouvel auteur
-            Etagere lEtagere = new Etagere() { Nom = nom, Etage=etage };
+            Etagere lEtagere = new Etagere() { Nom = nom, Etage=etage, Longueur=longueur, X=x, Y=y  };
             Etagere.Local.Add(lEtagere);
             return lEtagere;
         }
@@ -146,13 +146,13 @@ namespace EnVrac
             //Suppression de l'auteur
             Pays.Local.Remove(pays);
         }
-        internal SousCategorie AjouterSousCategorie(string nom)
+        internal SousCategorie AjouterSousCategorie(string nom, Categorie categorie)
         {
             //Gestion des erreurs
             if (nom == null || nom == string.Empty) { throw new ArgumentNullException($"{nameof(AjouterSousCategorie)} : L'auteur doit avoir un nom (valeur NULL ou chaine vide)."); }
 
             //Ajout du nouvel auteur
-            SousCategorie lSousCategorie = new SousCategorie() { Nom = nom };
+            SousCategorie lSousCategorie = new SousCategorie() { Nom = nom, Categorie = categorie };
             SousCategorie.Local.Add(lSousCategorie);
             return lSousCategorie;
         }

@@ -90,14 +90,14 @@ namespace EnVrac
         public Pays Pays { get; set; }
         public int PaysID { get; internal set; }
 
-        //public Unite Unite { get; set; }
+        public Unite Unite { get; set; }
         public int UniteID { get; internal set; }
 
 
         public ObservableCollection<Allergenes> Allergenes { get; private set; } = new ObservableCollection<Allergenes>();
        
         //public ObservableCollection<Pays> Pays { get; private set; } = new ObservableCollection<Pays>();
-        public ObservableCollection<Unite> Unite { get; private set; } = new ObservableCollection<Unite>();
+        //public ObservableCollection<Unite> Unite { get; private set; } = new ObservableCollection<Unite>();
 
         public event PropertyChangedEventHandler PropertyChanged;
        

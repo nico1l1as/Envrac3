@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I3HTDcS/etcAg3J1xlSxC3Sj9GvuL2441J5DdKP1wjluFJO/ttInLQR7zBWELBHyZCuT/NusIjboC/8L6Y1R9Q==",
+  "dgSpecHash": "cNVMl8I1C+6QIrg623/ROzfBx1Y9oKFoKW0kiMtJNFpOLZSvhKqocseZxpFEuV/W8vVH9kgV8mjLQ1u6e3bTrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\WpfENVRAC\\WpfENVRAC.csproj",
+  "projectFilePath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\WpfENVRAC\\WpfENVRAC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\nicol\Desktop\sauvegarde\EnVrac\WpfENVRAC\obj\Debug\netcoreapp3.1\
+C:\Users\nicol\Desktop\sauvegarde\Envrac3\EnVrac\WpfENVRAC\obj\Debug\netcoreapp3.1\
 WpfENVRAC
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\nicol\Desktop\sauvegarde\EnVrac\WpfENVRAC\App.xaml
+C:\Users\nicol\Desktop\sauvegarde\Envrac3\EnVrac\WpfENVRAC\App.xaml
 10737705179
 
 15-76773859
-222-260583471
+222-254428651
 MainWindow.xaml;pgAllergenes.xaml;pgArticle.xaml;pgCategorie.xaml;pgContenir.xaml;pgEtage.xaml;pgEtagere.xaml;pgPays.xaml;pgSousCategorie.xaml;pgUnite.xaml;
 
 False

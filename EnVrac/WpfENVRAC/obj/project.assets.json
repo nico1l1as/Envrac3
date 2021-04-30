@@ -6152,11 +6152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\WpfENVRAC\\WpfENVRAC.csproj",
+      "projectUniqueName": "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\WpfENVRAC\\WpfENVRAC.csproj",
       "projectName": "WpfENVRAC",
-      "projectPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\WpfENVRAC\\WpfENVRAC.csproj",
+      "projectPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\WpfENVRAC\\WpfENVRAC.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\WpfENVRAC\\obj\\",
+      "outputPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\WpfENVRAC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6173,8 +6173,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\EnVrac\\EnVrac.csproj": {
-              "projectPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\EnVrac\\EnVrac\\EnVrac.csproj"
+            "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\EnVrac\\EnVrac.csproj": {
+              "projectPath": "C:\\Users\\nicol\\Desktop\\sauvegarde\\Envrac3\\EnVrac\\EnVrac\\EnVrac.csproj"
             }
           }
         }

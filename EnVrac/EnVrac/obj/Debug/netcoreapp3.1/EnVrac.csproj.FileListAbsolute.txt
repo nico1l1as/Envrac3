@@ -168,3 +168,9 @@ C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\En
 C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.dll
 C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.pdb
 C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.genruntimeconfig.cache
+C:\Users\nicol\Desktop\sauvegarde\Envrac3\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\sauvegarde\Envrac3\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\sauvegarde\Envrac3\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.AssemblyInfo.cs
+C:\Users\nicol\Desktop\sauvegarde\Envrac3\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\sauvegarde\Envrac3\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.dll
+C:\Users\nicol\Desktop\sauvegarde\Envrac3\EnVrac\EnVrac\obj\Debug\netcoreapp3.1\EnVrac.pdb

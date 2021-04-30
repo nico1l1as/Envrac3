@@ -62,7 +62,7 @@ namespace EnVrac
         #region Méthodes permettant d'ajouter/d'enlever des données dans les tables de la BDD
         public Allergenes AjouterAllergenes(string nom) { return BDD?.AjouterAllergenes(nom); }
 
-        public Article AjouterArticle(string nom) { return BDD?.AjouterArticle(nom); }
+        public Article AjouterArticle(string nom, int quantite,int prixU,int prixKilo,DateTime restockage,DateTime peremption, string remarque,string specifitie, string) { return BDD?.AjouterArticle(nom); }
        
         public Categorie AjouterCategorie(string nom) { return BDD?.AjouterCategorie(nom); }
 

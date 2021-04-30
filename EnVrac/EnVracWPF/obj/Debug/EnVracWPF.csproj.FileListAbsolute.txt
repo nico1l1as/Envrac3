@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\EnVracWPF.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\MainWindow.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgAllergenes.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgArticle.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgCategorie.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgContenir.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgEtage.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgEtagere.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgPays.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgSousCategorie.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\pgUnite.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\App.g.cs
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\EnVracWPF_MarkupCompile.cache
+C:\Users\nicol\Desktop\PasserelleQ2\Programmation\ProjetTheoMattonB21\Envrac2\EnVrac\EnVracWPF\obj\Debug\EnVracWPF_MarkupCompile.lref

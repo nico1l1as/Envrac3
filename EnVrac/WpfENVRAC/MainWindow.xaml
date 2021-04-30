@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfENVRAC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfENVRAC"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="1000" Closing="OnClosing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu Name="mnuPrincipal">
+            <MenuItem Header="Application">
+                <MenuItem Header="Sauvegarder modifications" Click="SauvegarderModifications"/>
+                <Separator/>
+                <MenuItem Header="Quitter"                   Click="Quitter"/>
+            </MenuItem>
+            <MenuItem Header="Affichage">
+                <MenuItem Header="Allergenes"                   Click="AfficherAllergenes"/>
+                <MenuItem Header="Article"                   Click="AfficherArticle"/>
+                <MenuItem Header="Categorie"                    Click="AfficherCategorie"/>
+                <MenuItem Header="Contenir"                    Click="AfficherContenir"/>
+                <MenuItem Header="Etage"                    Click="AfficherEtage"/>
+                <MenuItem Header="Etagere"                  Click="AfficherEtagere"/>
+                <MenuItem Header="Pays"                     Click="AfficherPays"/>
+                <MenuItem Header="SousCategorie"            Click="AfficherSousCategorie"/>
+                <MenuItem Header="Unite"                    Click="AfficherUnite"/>
+            </MenuItem>
+        </Menu>
+
+        <Frame Name="Cadre" Grid.Row="1" Navigated="NavServiceOnNavigated" NavigationUIVisibility="Hidden" />
+
+    </Grid>
+</Window>
